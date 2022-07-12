@@ -1,0 +1,12 @@
+RecipesRU = {
+    Recipe_MakeBlondeHairDye = "Сделать краску для волос - блонд",
+    Recipe_MakeBlackHairDye = "Сделать краску для волос - чёрная",
+    Recipe_MakeWhiteHairDye = "Сделать краску для волос - белая",
+    Recipe_MakePinkHairDye = "Сделать краску для волос - розовая",
+    Recipe_MakeYellowHairDye = "Сделать краску для волос - жёлтая",
+    Recipe_MakeRedHairDye = "Сделать краску для волос - красная",
+    Recipe_MakeStrawberryBlondeHairDye = "Сделать краску для волос - рыжая",
+    Recipe_MakeLightBrownHairDye = "Сделать краску для волос - русая",
+    Recipe_MakeGreenHairDye = "Сделать краску для волос - зелёная",
+    Recipe_MakeBlueHairDye = "Сделать краску для волос - синяя",
+}
