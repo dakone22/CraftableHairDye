@@ -1,7 +1,0 @@
-version=1
-id=2834137798
-title=Craftable Hair Dye
-description=Now you don't have to look all over the state for your favorite color!
-description=Just make the right hair dye from paint, water and a bottle.
-tags=Build 41;Balance;Misc
-visibility=public
